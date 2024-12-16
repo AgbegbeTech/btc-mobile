@@ -390,4 +390,3 @@ If you'd like to secure the API with HTTPS, you can use **Let’s Encrypt** and 
 
 You now have a production-ready environment for interacting with the Bitcoin blockchain using an SPV node, Flask, Gunicorn, and Nginx. This backend is integrated into your **BTC-Mobile project**, allowing your mobile app to communicate with the Bitcoin network and verify transactions efficiently.
 
-Let me know if you need further guidance or assistance!
